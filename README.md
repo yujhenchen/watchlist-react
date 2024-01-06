@@ -7,6 +7,12 @@ https://emotion.sh/docs/introduction
 ## search for pros and cons of emotion compare to tailwind css and other css
 
 
+# use fontawesome
+@fortawesome/fontawesome-svg-core": "^6.5.1",
+@fortawesome/free-solid-svg-icons": "^6.5.1",
+@fortawesome/react-fontawesome": "^0.2.0",
+
+
 # Issues and solutions
 
 ## Use emotion get `You have tried to stringify object returned from `css` function. It isn't supposed to be used directly (e.g. as value of the `className` prop), but rather handed to emotion so it can handle it (e.g. as value of `css` prop).`
